@@ -1,25 +1,23 @@
 # NumericalAnalysis
 
 ### To Run jupyter from venv:
-```
+```shell
  python -m ipykernel install --user --name=venv
 ```
 where ```venv``` is the name of projects virtual environment.
 
-### Installation of draw.io addon:
-```
-jupyter labextension install jupyterlab-drawio
-```
 
-### PackageInstalation:
-```
+### Package Installation:
+```shell
 pip install pandas, plotly
+pip install chart-studio
+pip install chart-studio
 ```
 
-### After jupyter lab installation & venv installation:
+### After jupyter notebook installation & venv installation:
 run:
-```
-jupyter lab
+```shell
+jupyter notebook
 ```
 
 This will open the browser of jupyter.
