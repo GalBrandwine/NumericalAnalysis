@@ -11,6 +11,8 @@ where ```venv``` is the name of projects virtual environment.
 ```shell
 pip install pandas, plotly
 pip install chart-studio
+pip install sympy
+pip install numpy
 ```
 
 ### After jupyter notebook installation & venv installation:
